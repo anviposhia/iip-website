@@ -2,12 +2,18 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Roger Pate
 TEL;TYPE=WORK,VOICE:417-434-5555
-EMAIL:roger@iip.com
+EMAIL:roger@iiptexas.com
+ORG:Innovative Insulation Products, Inc.
+URL:https://www.iiptexas.com
+ADR;TYPE=WORK:;;301 Graham Rd;Rhome;TX;76078;USA
 END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
 FN:Mike Poshia
 TEL;TYPE=WORK,VOICE:817-424-2992
-EMAIL:mike@iip.com
+EMAIL:mike@iiptexas.com
+ORG:Innovative Insulation Products, Inc.
+URL:https://www.iiptexas.com
+ADR;TYPE=WORK:;;301 Graham Rd;Rhome;TX;76078;USA
 END:VCARD
